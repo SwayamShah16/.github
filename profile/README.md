@@ -1,215 +1,136 @@
 <div align="center">
 
-👋 Hi, I'm Swayam Shah
+# 👋 Hi, I'm Swayam Shah
 
-Aspiring Software Developer | Full-Stack Development | Java | JavaScript | Python | Data & AI
+**Aspiring Software Developer • Full‑Stack • Java | JavaScript | Python | Data & AI**
 
-I enjoy building practical software — from enterprise management systems and full-stack web applications to data analytics and machine-learning projects.
-
-
+I enjoy building practical software — from enterprise management systems and full‑stack web applications to data analytics and machine‑learning projects.
 
 </div>
 
-👨‍💻 About Me
+---
 
-💻 Aspiring software developer focused on building real-world applications.
+## 👨‍💻 About Me
 
-☕ Strong foundation in Java, JSP, Servlets, JDBC, MySQL, and MVC architecture.
+- 💻 Aspiring software developer focused on building real‑world applications.
+- ☕ Strong foundation in Java, JSP, Servlets, JDBC, MySQL, and MVC architecture.
+- 🌐 Building skills in JavaScript, TypeScript, HTML, CSS, Bootstrap, and modern frontend development.
+- 🐍 Experienced with Python, NumPy, Pandas, Data Science, Machine Learning, and Jupyter Notebook.
+- 📊 Interested in Power BI, Tableau, data analytics, and business intelligence.
+- ☁️ Exploring AWS, cloud technologies, scalable backend systems, and AI‑powered applications.
+- 🧠 I enjoy solving problems through clean architecture, databases, automation, and intelligent systems.
 
-🌐 Building skills in JavaScript, TypeScript, HTML, CSS, Bootstrap, and modern frontend development.
+---
 
-🐍 Experienced with Python, NumPy, Pandas, Data Science, Machine Learning, and Jupyter Notebook.
+## 🛠️ Tech Stack
 
-📊 Interested in Power BI, Tableau, data analytics, and business intelligence.
-
-☁️ Exploring AWS, cloud technologies, scalable backend systems, and AI-powered applications.
-
-🧠 Interested in solving problems through clean architecture, databases, automation, and intelligent systems.
-
-🛠️ Tech Stack
-
-Languages
+### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" alt="languages" />
 </p>
 
-Backend & Web Development
+### Backend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=mysql,bootstrap" alt="backend tools" />
 </p>
 
-Java Servlets
+- Java Servlets · JSP · JDBC · MVC / MVC2 Architecture
+- REST API fundamentals · Responsive Web Development
 
-JSP
+### Data, Analytics & AI
 
-JDBC
+- NumPy · Pandas · Jupyter Notebook · Data Science · Machine Learning
+- Power BI · Tableau · Agentic AI
 
-MVC / MVC2 Architecture
-
-REST API fundamentals
-
-Responsive Web Development
-
-Data, Analytics & AI
-
-NumPy
-
-Pandas
-
-Jupyter Notebook
-
-Data Science
-
-Machine Learning
-
-Agentic AI
-
-Power BI
-
-Tableau
-
-Tools & Platforms
+### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,eclipse" alt="tools" />
 </p>
 
-🚀 Featured Projects
+---
 
-🏥 Hospital Reception Management System
+## 🚀 Featured Projects
 
-Java • JSP • Servlets • JDBC • MySQL • MVC2
+- **Hospital Reception Management System** — Java • JSP • Servlets • JDBC • MySQL • MVC2
+  - An ERP‑style hospital reception system handling patients, doctors, staff, appointments, rooms, payments, emergencies and dashboards.
+  - ➡️ View repository: https://github.com/SwayamShah16/Hospital-Reception-Management-System
 
-An ERP-based hospital reception management system designed to handle major reception-side operations, including patients, doctors, staff, appointments, rooms, payments, emergency cases, dashboards, role-based access, activity logs, announcements, chatbot support, medicine inventory, and ambulance management.
+- **Import‑Export ERP System** — Java • JSP • Servlets • JDBC • MySQL • MVC2
+  - Web‑based seller ERP for managing contacts, products, profiles and reports.
+  - ➡️ View repository: https://github.com/SwayamShah16/Import-Export-ERP-System
 
-➡️ View Repository
+- **University Management System** — Core Java • Java Swing • MySQL
+  - Desktop application for managing students, teachers, departments, marks and leaves.
+  - ➡️ View repository: https://github.com/SwayamShah16/University-Management-System
 
-📦 Import-Export ERP System
+- **Fake Social Media Account Detection** — Python • Jupyter Notebook • ML
+  - Data‑driven project analyzing Instagram user data to detect likely fake profiles using preprocessing, EDA and classification models.
+  - ➡️ View repository: https://github.com/SwayamShah16/Fake-Social-Media-Account-Detection
 
-Java • JSP • Servlets • JDBC • MySQL • MVC2
+- **Power BI Dashboards** — Power BI • Data Visualization
+  - Dashboards that visualize KPIs and insights across sample datasets.
+  - ➡️ View repository: https://github.com/SwayamShah16/Power-BI-Dashboards-
 
-A web-based seller ERP application for managing business operations such as contacts, products, user profiles, reports, and related enterprise workflows.
+> Tip: Add screenshots or GIFs to each project README for stronger portfolio impact.
 
-➡️ View Repository
+---
 
-🎓 University Management System
+## 📚 Learning & Practice
 
-Core Java • Java Swing • MySQL
+- JavaScript Practice · CSS Practical · K1_JS-TS-Test · Assignments & Data Work
 
-A desktop-based university management application for managing students, teachers, departments, marks, and leave information.
+---
 
-➡️ View Repository
+## 🎯 Current Focus
 
-🤖 Fake Social Media Account Detection
+1. Data Structures & Algorithms
+2. Java Backend Development
+3. REST APIs & Spring Boot
+4. React & Modern Frontend Development
+5. Docker & Cloud Fundamentals
+6. AI‑Powered Full‑Stack Applications
 
-Python • Jupyter Notebook • Machine Learning • Data Analysis
+My goal is to grow into a strong Software / Full‑Stack Engineer capable of designing scalable applications from database to deployment.
 
-A machine-learning project focused on analyzing Instagram-user data and identifying whether social-media profiles are likely to be real or fake using data preprocessing, exploration, visualization, and predictive modelling.
+---
 
-➡️ View Repository
+## 💡 Areas I Enjoy
 
-📊 Power BI Dashboards
+Full‑Stack Web Applications · Enterprise Management Systems · Backend Development · Database Design · DSA · Data Analytics & Visualization · Machine Learning · AI‑Powered Developer Tools · Cloud & Deployment · Software Architecture
 
-Power BI • Data Visualization • Business Intelligence
+---
 
-A collection of dashboards created to explore business data, visualize KPIs, and present insights in an easy-to-understand format.
-
-➡️ View Repository
-
-📚 Learning & Practice
-
-I also use GitHub to document my learning and strengthen my frontend and programming fundamentals.
-
-⚡ JavaScript Practice
-
-🎨 CSS Practical
-
-🧪 JavaScript / TypeScript Test
-
-📓 Assignments & Data Work
-
-🎯 What I'm Currently Focused On
-
-Data Structures & Algorithms
-        ↓
-Java Backend Development
-        ↓
-REST APIs & Spring Boot
-        ↓
-React & Modern Frontend Development
-        ↓
-Docker & Cloud Fundamentals
-        ↓
-AI-Powered Full-Stack Applications
-
-My goal is to grow into a strong Software / Full-Stack Engineer capable of designing scalable applications from database to deployment.
-
-💡 Areas I Enjoy Working On
-
-Full-Stack Web Applications
-
-Enterprise Management Systems
-
-Backend Development
-
-Database Design
-
-Data Structures & Algorithms
-
-Data Analytics & Visualization
-
-Machine Learning
-
-AI-Powered Developer Tools
-
-Cloud & Deployment
-
-Software Architecture
-
-📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SwayamShah16&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SwayamShah16&show_icons=true&hide_border=true" alt="GitHub stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamShah16&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamShah16&layout=compact&hide_border=true" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SwayamShah16&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SwayamShah16&hide_border=true" alt="Streak stats" />
 
 </div>
 
-🤝 Open to Opportunities
+---
 
-I'm interested in:
+## 🤝 Open to Opportunities
 
-Software Development Internships
+Interested in internships, backend/full‑stack roles, data & AI projects, collaborative projects, hackathons, and open‑source contributions.
 
-Java / Backend Development
-
-Full-Stack Development
-
-Data & AI Projects
-
-Collaborative Projects
-
-Hackathons
-
-Open-Source Contributions
-
-If you find one of my projects interesting, feel free to explore the repository, open an issue, or connect with me through GitHub.
+If you find a project interesting, feel free to explore the repo, open an issue, or connect with me on GitHub.
 
 <div align="center">
 
 ⭐ Build. Learn. Improve. Repeat.
 
 Thanks for visiting my profile!
-
-
 
 </div>
