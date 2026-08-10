@@ -92,6 +92,7 @@ I enjoy building practical software — from enterprise management systems and f
 4. React & Modern Frontend Development
 5. Docker & Cloud Fundamentals
 6. AI‑Powered Full‑Stack Applications
+7. Java Frameworks 
 
 My goal is to grow into a strong Software / Full‑Stack Engineer capable of designing scalable applications from database to deployment.
 
