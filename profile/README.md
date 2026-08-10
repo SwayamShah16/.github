@@ -27,13 +27,13 @@ I enjoy building practical software — from enterprise management systems and f
 ### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,bootstrap,c,xml,json" alt="languages" />
 </p>
 
 ### Backend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,bootstrap" alt="backend tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws" alt="backend tools" />
 </p>
 
 - Java Servlets · JSP · JDBC · MVC / MVC2 Architecture
@@ -47,7 +47,7 @@ I enjoy building practical software — from enterprise management systems and f
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,eclipse" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,eclipse,excel,powerbi,tableau" alt="tools" />
 </p>
 
 ---
