@@ -1,65 +1,215 @@
-# Hi, I'm Swayam Shah 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in building scalable web applications, data analysis, and enterprise management systems.
+👋 Hi, I'm Swayam Shah
 
-## 🛠️ Tech Stack
+Aspiring Software Developer | Full-Stack Development | Java | JavaScript | Python | Data & AI
 
-**Languages & Frameworks:**
-- Java (JSP, Servlets, Swing, JDBC)
-- JavaScript & TypeScript
-- Python (Numpy,Pandas,Agentic AI,Data Science & ML)
-- HTML5 & CSS3
-- Bootstrap5
+I enjoy building practical software — from enterprise management systems and full-stack web applications to data analytics and machine-learning projects.
 
-**Databases & Tools:**
-- MySQL
-- Jupyter Notebook
-- Power BI
-- MVC2 Architecture
-- Git & Github
-- Tableau
-- AWS
 
-## 📋 Featured Projects
 
-### Enterprise Management Systems
-- **[Hospital Reception Management System](https://github.com/SwayamShah16/Hospital-Reception-Management-System)** - ERP-based hospital management with JSP, Servlets, MySQL, and chatbot support
-- **[Import-Export ERP System](https://github.com/SwayamShah16/Import-Export-ERP-System)** - Web-based seller ERP for managing contacts, products, and reports
-- **[University Management System](https://github.com/SwayamShah16/University-Management-System)** - Core Java project managing teachers, students, departments, and marks
+</div>
 
-### Data Science & Analytics
-- **[Fake Social Media Account Detection](https://github.com/SwayamShah16/Fake-Social-Media-Account-Detection)** - Machine learning model for detecting fake Instagram profiles using data cleaning, exploration, and visualization
-- **[Power BI Dashboards](https://github.com/SwayamShah16/Power-BI-Dashboards-)** - Business intelligence dashboards and analytics
+👨‍💻 About Me
 
-### Learning & Practice
-- **[JavaScript Practice](https://github.com/SwayamShah16/JavaScriptPractice)** - JavaScript fundamentals and projects
-- **[CSS Practical](https://github.com/SwayamShah16/CSS-Practical)** - CSS styling and responsive design projects
-- **[Assignment](https://github.com/SwayamShah16/Assignment)** - Academic coursework and learning materials
+💻 Aspiring software developer focused on building real-world applications.
 
-## 💡 What I'm Good At
+☕ Strong foundation in Java, JSP, Servlets, JDBC, MySQL, and MVC architecture.
 
-- ✅ Building full-stack web applications with Java & JavaScript
-- ✅ Database design and optimization with MySQL
-- ✅ Data analysis and machine learning with Python
-- ✅ Enterprise application architecture (MVC patterns)
-- ✅ Creating business intelligence dashboards
-- ✅ Problem-solving and clean code practices
+🌐 Building skills in JavaScript, TypeScript, HTML, CSS, Bootstrap, and modern frontend development.
 
-## 🎯 Current Focus
+🐍 Experienced with Python, NumPy, Pandas, Data Science, Machine Learning, and Jupyter Notebook.
 
-I'm interested in expanding my expertise in:
-- Advanced backend architecture and scalability
-- Cloud technologies (AWS, Azure)
-- Real-time data processing
-- AI/ML applications in enterprise systems
+📊 Interested in Power BI, Tableau, data analytics, and business intelligence.
 
-## 📊 GitHub Stats
+☁️ Exploring AWS, cloud technologies, scalable backend systems, and AI-powered applications.
 
-![SwayamShah16's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwayamShah16&show_icons=true&theme=dark)
+🧠 Interested in solving problems through clean architecture, databases, automation, and intelligent systems.
 
-## 📫 Let's Connect
+🛠️ Tech Stack
 
-Feel free to explore my repositories, fork projects, and reach out for collaboration! I'm always open to discussing new ideas and working on interesting projects.
+Languages
 
----
-*Last updated: August 2026*
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
+</p>
+
+Backend & Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,bootstrap" />
+</p>
+
+Java Servlets
+
+JSP
+
+JDBC
+
+MVC / MVC2 Architecture
+
+REST API fundamentals
+
+Responsive Web Development
+
+Data, Analytics & AI
+
+NumPy
+
+Pandas
+
+Jupyter Notebook
+
+Data Science
+
+Machine Learning
+
+Agentic AI
+
+Power BI
+
+Tableau
+
+Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,eclipse" />
+</p>
+
+🚀 Featured Projects
+
+🏥 Hospital Reception Management System
+
+Java • JSP • Servlets • JDBC • MySQL • MVC2
+
+An ERP-based hospital reception management system designed to handle major reception-side operations, including patients, doctors, staff, appointments, rooms, payments, emergency cases, dashboards, role-based access, activity logs, announcements, chatbot support, medicine inventory, and ambulance management.
+
+➡️ View Repository
+
+📦 Import-Export ERP System
+
+Java • JSP • Servlets • JDBC • MySQL • MVC2
+
+A web-based seller ERP application for managing business operations such as contacts, products, user profiles, reports, and related enterprise workflows.
+
+➡️ View Repository
+
+🎓 University Management System
+
+Core Java • Java Swing • MySQL
+
+A desktop-based university management application for managing students, teachers, departments, marks, and leave information.
+
+➡️ View Repository
+
+🤖 Fake Social Media Account Detection
+
+Python • Jupyter Notebook • Machine Learning • Data Analysis
+
+A machine-learning project focused on analyzing Instagram-user data and identifying whether social-media profiles are likely to be real or fake using data preprocessing, exploration, visualization, and predictive modelling.
+
+➡️ View Repository
+
+📊 Power BI Dashboards
+
+Power BI • Data Visualization • Business Intelligence
+
+A collection of dashboards created to explore business data, visualize KPIs, and present insights in an easy-to-understand format.
+
+➡️ View Repository
+
+📚 Learning & Practice
+
+I also use GitHub to document my learning and strengthen my frontend and programming fundamentals.
+
+⚡ JavaScript Practice
+
+🎨 CSS Practical
+
+🧪 JavaScript / TypeScript Test
+
+📓 Assignments & Data Work
+
+🎯 What I'm Currently Focused On
+
+Data Structures & Algorithms
+        ↓
+Java Backend Development
+        ↓
+REST APIs & Spring Boot
+        ↓
+React & Modern Frontend Development
+        ↓
+Docker & Cloud Fundamentals
+        ↓
+AI-Powered Full-Stack Applications
+
+My goal is to grow into a strong Software / Full-Stack Engineer capable of designing scalable applications from database to deployment.
+
+💡 Areas I Enjoy Working On
+
+Full-Stack Web Applications
+
+Enterprise Management Systems
+
+Backend Development
+
+Database Design
+
+Data Structures & Algorithms
+
+Data Analytics & Visualization
+
+Machine Learning
+
+AI-Powered Developer Tools
+
+Cloud & Deployment
+
+Software Architecture
+
+📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SwayamShah16&show_icons=true&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamShah16&layout=compact&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SwayamShah16&hide_border=true" />
+
+</div>
+
+🤝 Open to Opportunities
+
+I'm interested in:
+
+Software Development Internships
+
+Java / Backend Development
+
+Full-Stack Development
+
+Data & AI Projects
+
+Collaborative Projects
+
+Hackathons
+
+Open-Source Contributions
+
+If you find one of my projects interesting, feel free to explore the repository, open an issue, or connect with me through GitHub.
+
+<div align="center">
+
+⭐ Build. Learn. Improve. Repeat.
+
+Thanks for visiting my profile!
+
+
+
+</div>
