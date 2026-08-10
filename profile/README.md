@@ -5,16 +5,20 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**
-- Java (JSP, Servlets, Swing)
+- Java (JSP, Servlets, Swing, JDBC)
 - JavaScript & TypeScript
-- Python (Data Science & ML)
-- HTML & CSS
+- Python (Numpy,Pandas,Agentic AI,Data Science & ML)
+- HTML5 & CSS3
+- Bootstrap5
 
 **Databases & Tools:**
 - MySQL
 - Jupyter Notebook
 - Power BI
 - MVC2 Architecture
+- Git & Github
+- Tableau
+- AWS
 
 ## 📋 Featured Projects
 
