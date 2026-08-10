@@ -98,10 +98,6 @@ Full‑Stack Web Applications · Enterprise Management Systems · Backend Develo
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SwayamShah16&show_icons=true&hide_border=true" alt="GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamShah16&layout=compact&hide_border=true" alt="Top languages" />
-
 </div>
 
 <div align="center">
