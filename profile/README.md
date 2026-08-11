@@ -103,7 +103,7 @@ Full‑Stack Web Applications · Enterprise Management Systems · Backend Develo
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=SwayamShah16&hide_border=true" alt="Streak stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AyushM-006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SwayamShah16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%" alt="GitHub Streak" />
 
 </div>
 
