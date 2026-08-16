@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Swayam Shah
 
-**Full‑Stack Web Applications · Enterprise Management Systems · Backend Development · Database Design · Data Analytics & Visualization · Machine Learning · AI‑Powered Developer Tools**
+**Full‑Stack Web Application Developement · Backend Development · Java Full Stack Development · Data Analytics & Visualization · Machine Learning · AI‑Powered Developer Tools**
 
 I enjoy building practical software — from enterprise management systems and full‑stack web applications to data analytics and machine‑learning projects.
 
