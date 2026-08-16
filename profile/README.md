@@ -2,9 +2,11 @@
 
 # 👋 Hi, I'm Swayam Shah
 
-**Aspiring Software Developer • Full‑Stack • Java | JavaScript | Python | Data & AI**
+**Full‑Stack Web Applications · Enterprise Management Systems · Backend Development · Database Design · Data Analytics & Visualization · Machine Learning · AI‑Powered Developer Tools**
 
 I enjoy building practical software — from enterprise management systems and full‑stack web applications to data analytics and machine‑learning projects.
+
+Explore More :- https://swayamshah16.github.io/
 
 </div>
 
@@ -36,9 +38,6 @@ I enjoy building practical software — from enterprise management systems and f
   <img src="https://skillicons.dev/icons?i=mysql,aws" alt="backend tools" />
 </p>
 
-- Java Servlets · JSP · JDBC · MVC / MVC2 Architecture 
-- REST API fundamentals · Responsive Web Development
-
 ### Data, Analytics & AI
 
 - NumPy · Pandas · Jupyter Notebook · Data Science · Machine Learning
@@ -52,46 +51,7 @@ I enjoy building practical software — from enterprise management systems and f
 
 ---
 
-
-## 🚀 Featured Projects
-
-- **Hospital Reception Management System** — Java • JSP • Servlets • JDBC • MySQL • MVC2
-  - An ERP‑style hospital reception system handling patients, doctors, staff, appointments, rooms, payments, emergencies and dashboards.
-  - ➡️ View repository: https://github.com/SwayamShah16/Hospital-Reception-Management-System
-
-- **Import‑Export ERP System** — Java • JSP • Servlets • JDBC • MySQL • MVC2
-  - Web‑based seller ERP for managing contacts, products, profiles and reports.
-  - ➡️ View repository: https://github.com/SwayamShah16/Import-Export-ERP-System
-
-- **University Management System** — Core Java • Java Swing • MySQL
-  - Desktop application for managing students, teachers, departments, marks and leaves.
-  - ➡️ View repository: https://github.com/SwayamShah16/University-Management-System
-
-- **Fake Social Media Account Detection** — Python • Jupyter Notebook • ML
-  - Data‑driven project analyzing Instagram user data to detect likely fake profiles using preprocessing, EDA and classification models.
-  - ➡️ View repository: https://github.com/SwayamShah16/Fake-Social-Media-Account-Detection
-
-- **Power BI Dashboards** — Power BI • Data Visualization
-  - Dashboards that visualize KPIs and insights across sample datasets.
-  - ➡️ View repository: https://github.com/SwayamShah16/Power-BI-Dashboards-
-
-> Tip: Add screenshots or GIFs to each project README for stronger portfolio impact.
-
----
-
-## 📚 Learning & Practice
-
-- JavaScript Practice · CSS Practical · K1_JS-TS-Test · Assignments & Data Work
-
----
-
 My goal is to grow into a strong Software / Full‑Stack Engineer capable of designing scalable applications from database to deployment.
-
----
-
-## 💡 Areas I Enjoy
-
-Full‑Stack Web Applications · Enterprise Management Systems · Backend Development · Database Design · DSA · Data Analytics & Visualization · Machine Learning · AI‑Powered Developer Tools · Cloud & Deployment · Software Architecture
 
 ---
 
