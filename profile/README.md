@@ -6,7 +6,7 @@
 
 I enjoy building practical software — from enterprise management systems and full‑stack web applications to data analytics and machine‑learning projects.
 
-Explore More :- https://swayamshah16.github.io/
+Explore More :- swayam-shah16-github-io.vercel.app
 
 </div>
 
