@@ -46,7 +46,7 @@ Explore More :- https://swayam-shah16-github-io.vercel.app/
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,eclipse,excel,powerbi,tableau" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,eclipse,excel,powerbi,tableau,intellij,postman,vercel,dbeaver" alt="tools" />
 </p>
 
 ---
