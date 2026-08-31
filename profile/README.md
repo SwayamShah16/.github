@@ -35,7 +35,7 @@ Explore More :- https://swayam-shah16-github-io.vercel.app/
 ### Backend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,aws" alt="backend tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws,oracleapex,dbeaver" alt="backend tools" />
 </p>
 
 ### Data, Analytics & AI
