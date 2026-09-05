@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Swayam Shah
 
-**Aspiring Software Developer • Full‑Stack • Java | JavaScript | Python | Data & AI**
+**Aspiring Software Developer • Full‑Stack • Java | JavaScript | Data & AI**
 
 I enjoy building practical software — from enterprise management systems and full‑stack web applications to data analytics and machine‑learning projects.
 
