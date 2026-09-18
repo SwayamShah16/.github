@@ -134,12 +134,3 @@ If you find a project interesting, feel free to explore the repo, open an issue,
 Thanks for visiting my profile!
 
 </div>
-
-
-## Play my Pac‑Man game! 🎮
-
-I set up a link here so visitors can play my Pac‑Man game once the GitHub Pages site is live.
-
-[Play Pac‑Man (GitHub Pages)](https://swayamshah16.github.io)
-
-[![Play Pac‑Man](https://img.shields.io/badge/Play-Pac--Man-yellow?logo=gamepad)](https://swayamshah16.github.io)
