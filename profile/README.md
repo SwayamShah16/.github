@@ -59,10 +59,6 @@ My goal is to grow into a strong Software / Full‑Stack Engineer capable of des
 
 <div align="center">
 
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=SwayamShah16&hide_border=true" alt="Streak stats" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SwayamShah16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="GitHub Streak" />
 
