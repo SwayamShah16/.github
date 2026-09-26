@@ -26,9 +26,9 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 > 💡 Great software is built on clean architecture, strong fundamentals, and continuous learning.
 
 - 🔥 Full-Stack Developer with strong foundations in Java, JavaScript, Python, PHP, and modern web technologies
+- 📱 Frontend-based HTML5, CSS3, Bootstrap, JavaScript and modern web technologies
 - 🏗️ Backend-focused mindset with API design, database modeling, and system architecture
-- 🔐 **PHP-Based Authentication & Authorization Expert** | Role-Based Login (RBAC), Session Handling, Token Management, Secure Password Hashing, Access Control Lists (ACL), Multi-factor Authentication (MFA) Support
-- 🛡️ **Session Management Specialist** | Session Timeout, Session Validation, Secure Cookie Handling, Session Hijacking Prevention, Database-Backed Sessions
+- 🔐 PHP-Based Authentication & Authorization Expert | Role-Based Login (RBAC), Session Handling, Form Validation, Secure Password Hashing.
 - 📊 Data-driven thinker working with machine learning, analytics, and visualization
 - 🚀 Exploring cloud deployment using AWS, Vercel, and Render
 - 🧠 Constantly learning system design, modern frameworks, and AI/LLM concepts
@@ -115,7 +115,7 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 | Focus | Details |
 | --- | --- |
 | 🏗️ System Design | Scalable architectures, API design patterns, database optimization, and distributed systems |
-| ⚛️ Modern Full-Stack | React ecosystems, Spring Boot frameworks, advanced state management, and production-grade deployments |
+| ⚛️ Modern Full-Stack | React ecosystems, Spring framework, advanced state management, and production-grade deployments |
 | 🤖 AI & Automation | LLM integrations, prompt engineering, RAG systems, and intelligent automation |
 
 ---
