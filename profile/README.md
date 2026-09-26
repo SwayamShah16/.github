@@ -16,7 +16,7 @@ Explore More :- https://swayam-shah16-github-io.vercel.app/
 
 - 💻 Aspiring software developer focused on building real‑world applications.
 - ☕ Strong foundation in Java, JSP, Servlets, JDBC, MySQL, and MVC architecture.
-- 🌐 Building skills in JavaScript, TypeScript, HTML, CSS, Bootstrap, and modern frontend development.
+- 🌐 Building skills in JavaScript, TypeScript, HTML, CSS, Bootstrap, PHP, and modern frontend development.
 - 🐍 Experienced with Python, NumPy, Pandas, Data Science, Machine Learning, and Jupyter Notebook.
 - 📊 Interested in Power BI, Tableau, data analytics, and business intelligence.
 - ☁️ Exploring AWS, cloud technologies, scalable backend systems, and AI‑powered applications.
@@ -29,7 +29,7 @@ Explore More :- https://swayam-shah16-github-io.vercel.app/
 ### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,bootstrap,c,xml,json" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,bootstrap,c,xml,json,php" alt="languages" />
 </p>
 
 ### Backend & Web
