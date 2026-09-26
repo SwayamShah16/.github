@@ -29,7 +29,7 @@ Explore More :- https://swayam-shah16-github-io.vercel.app/
 ### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,bootstrap,c,xml,json,php" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,bootstrap,c,php" alt="languages" />
 </p>
 
 ### Backend & Web
