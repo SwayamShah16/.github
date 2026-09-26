@@ -2,163 +2,210 @@
 
 # 👋 Hi, I'm Swayam Shah
 
-**Aspiring Software Developer • Full-Stack Developer • Java | JavaScript | Python | Data & AI**
+### Aspiring Software Developer · Full-Stack Developer · Data & AI Enthusiast
 
-I enjoy building practical software — from enterprise management systems and full-stack web applications to data analytics, business intelligence, and AI-powered solutions.
+**Java · JavaScript · Python · Data Analytics · Machine Learning**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)](https://swayam-shah16-github-io.vercel.app/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-shah-ss160905/) 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SwayamShah16)
+<p>
+  <a href="https://swayam-shah16-github-io.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A84FF?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/swayam-shah-ss160905/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shahswayam222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=SwayamShah16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 💻 Aspiring software developer focused on building real-world applications with clean architecture, reusable code, and solid engineering practices.
-- ☕ Strong foundation in Java, JSP, Servlets, JDBC, MySQL, and MVC2 architecture for enterprise systems.
-- 🌐 Building responsive web applications using JavaScript, TypeScript, HTML5, CSS3, Bootstrap5, and modern frontend techniques.
-- 🐍 Experienced with Python, NumPy, Pandas, data science, machine learning, and Jupyter Notebook.
-- 📊 Interested in Power BI, Tableau, data visualization, and business intelligence.
-- ☁️ Exploring AWS, Vercel, Render, cloud technologies, and scalable backend systems.
-- 🧠 Enjoy solving problems through database design, automation, analytics, and intelligent systems.
-- 🔐 Interested in secure application design, role-based access, authentication, authorization, and session management.
+I am an aspiring software developer who enjoys building practical, reliable, and user-focused software. My work spans enterprise management systems, full-stack web applications, data analytics, machine learning, and AI-powered solutions.
+
+- 💻 Focused on clean architecture, reusable code, and real-world problem solving
+- ☕ Strong foundation in Java, JSP, Servlets, JDBC, MySQL, and MVC2 architecture
+- 🌐 Building responsive web applications with JavaScript, TypeScript, HTML5, CSS3, and Bootstrap5
+- 🐍 Working with Python, NumPy, Pandas, Jupyter Notebook, data science, and machine learning
+- 📊 Interested in Power BI, Tableau, data visualization, and business intelligence
+- ☁️ Exploring AWS, Vercel, Render, cloud technologies, and scalable backend systems
+- 🔐 Familiar with authentication, authorization, role-based access control, and session management
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,typescript,html,css,bootstrap,c,xml,json" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,typescript,html,css,bootstrap,c" alt="Languages and frameworks" />
 </p>
 
-### Backend & Web
+`Java` `Spring Core` `Python` `JavaScript` `TypeScript` `HTML5` `CSS3` `Bootstrap5` `C` `XML` `JSON`
+
+### Backend, Databases & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,aws,vercel,render,apache,tomcat,maven" alt="backend tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,aws,vercel,render,apache,tomcat,maven" alt="Backend and web technologies" />
 </p>
+
+`JSP` `Servlets` `JDBC` `MVC2 Architecture` `REST APIs` `MySQL` `OracleDB` `Responsive Design` `Apache Maven` `Apache Tomcat`
 
 ### Data, Analytics & AI
 
-- NumPy · Pandas · Jupyter Notebook · Data Science · Machine Learning
-- Power BI · Tableau · Agentic AI · LLM · LangChain
-- Data Visualization · Business Intelligence · Data Analytics
+`NumPy` `Pandas` `Jupyter Notebook` `Data Science` `Machine Learning` `Power BI` `Tableau` `Data Visualization` `Business Intelligence` `Agentic AI` `LLM` `LangChain`
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,figma,dbeaver,intellij,excel" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,figma,dbeaver,intellij" alt="Tools and platforms" />
 </p>
 
-### Additional Skills
-
-- Java EE / JSP / Servlets / JDBC / MVC2 Architecture
-- REST APIs / Responsive Design / Bootstrap / HTML / CSS / JavaScript
-- MySQL / OracleDB / Database Design / Query Optimization
-- AWS / Vercel / Render / Deployment Workflows
-- Git / GitHub / Version Control / Collaboration
-- Excel / XAMPP / Oracle Apex / MySQL Workbench
+`Git` `GitHub` `VS Code` `Eclipse` `IntelliJ IDEA` `Postman` `Figma` `DBeaver` `Excel` `XAMPP` `Oracle APEX` `MySQL Workbench`
 
 ---
 
-## 📚 Learning & In Progress
+## 📚 Currently Learning
 
-### System Design
-- Building a strong foundation in scalable architecture, API design, caching, and database trade-offs.
-- RESTful API patterns, high-level system patterns, and database scaling.
-
-### Modern Full-Stack Development
-- Expanding frontend and backend skills with production-focused patterns and clean implementation.
-- React concepts, API integration, deployment workflows, and user-friendly interfaces.
-
-### AI & Data Products
-- Exploring practical AI workflows, prompts, analytics, and automation for real-world products.
-- LLM fundamentals, prompt design, and data-driven decision making.
-
----
-
-## 🏆 Achievements & Recognition
-
-- 1st Prize — Certificate of Excellence in Examination (TECO)
-- 1st Prize — Certificate of Innovation for SIIH-2025 (TECO)
-- 2nd Prize — Certificate of Excellence in Examination (SECO)
-- Certificate of Completion — Data Visualization (Anudip Foundation)
-- Certificate of Completion — Internship
-- Consolation Prize — Project Exhibition 2025 (SECO)
-- Internship Completion Letter — SDAC Infotech
-
-These recognitions reflect both academic excellence and practical learning through projects, internships, and innovation-driven work.
+| Focus Area | What I'm Exploring |
+| --- | --- |
+| 🏗️ **System Design** | Scalable architecture, RESTful API patterns, caching, database scaling, and system trade-offs |
+| ⚛️ **Modern Full-Stack** | React concepts, API integration, clean state management, and deployment workflows |
+| 🤖 **AI & Data Products** | LLM fundamentals, prompt design, practical AI workflows, analytics, and automation |
 
 ---
 
 ## 🚀 Featured Projects
 
-- Hospital Reception Management System — ERP-style hospital management platform for patients, doctors, rooms, appointments, and dashboards.
-- Import-Export ERP System — Seller ERP for contacts, products, profiles, and reporting.
-- University Management System — Desktop application for managing students, teachers, departments, and marks.
-- Fake Social Media Account Detection — ML-based profile analysis using Python and data science workflows.
-- Power BI Dashboards — Interactive dashboards and KPI visualizations.
-- Profile Page — Portfolio website showcasing my skills, projects, and professional journey.
+<table>
+<tr>
+<td width="50%">
 
-### Project Links
+### 🏥 Hospital Reception Management System
 
-- [Hospital Reception Management System](https://github.com/SwayamShah16/Hospital-Reception-Management-System)
-- [Import-Export ERP System](https://github.com/SwayamShah16/Import-Export-ERP-System)
-- [University Management System](https://github.com/SwayamShah16/University-Management-System)
-- [Fake Social Media Account Detection](https://github.com/SwayamShah16/Fake-Social-Media-Account-Detection)
-- [Power BI Dashboards](https://github.com/SwayamShah16/Power-BI-Dashboards-)
-- [Portfolio Website](https://swayamshah16.github.io/)
+ERP-style hospital management platform for patients, doctors, staff, appointments, rooms, payments, emergencies, and dashboards.
+
+**Java · JSP · Servlets · JDBC · MySQL · Angular · Bootstrap**
+
+<a href="https://github.com/SwayamShah16/Hospital-Reception-Management-System">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### 🌍 Import-Export ERP System
+
+Web-based seller ERP for managing contacts, products, profiles, reports, and business dashboards.
+
+**Java · JSP · JDBC · MySQL · MVC2 · Bootstrap**
+
+<a href="https://github.com/SwayamShah16/Import-Export-ERP-System">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 University Management System
+
+Desktop application for managing students, teachers, departments, marks, and leaves through an intuitive GUI.
+
+**Core Java · Swing · MySQL**
+
+<a href="https://github.com/SwayamShah16/University-Management-System">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### 🕵️ Fake Social Media Account Detection
+
+Machine-learning project analyzing Instagram data with preprocessing, exploratory analysis, and classification models.
+
+**Python · Jupyter · Pandas · Machine Learning**
+
+<a href="https://github.com/SwayamShah16/Fake-Social-Media-Account-Detection">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Power BI Dashboards
+
+Interactive dashboards that communicate KPIs, trends, and data-driven insights through professional visualizations.
+
+**Power BI · Data Visualization · Analytics**
+
+<a href="https://github.com/SwayamShah16/Power-BI-Dashboards-">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### 💼 Portfolio Website
+
+Responsive portfolio website presenting my skills, projects, achievements, and professional journey.
+
+**HTML5 · CSS3 · JavaScript**
+
+<a href="https://swayamshah16.github.io/">View Website →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Achievements & Recognition
+
+- 🥇 1st Prize — Certificate of Excellence in Examination, TECO
+- 🥇 1st Prize — Certificate of Innovation, SIIH 2025, TECO
+- 🥈 2nd Prize — Certificate of Excellence in Examination, SECO
+- 🏅 Consolation Prize — Project Exhibition 2025, SECO
+- 📜 Certificate of Completion — Data Visualization, Anudip Foundation
+- 📜 Certificate of Completion — Internship
+- 💼 Internship Completion Letter — SDAC Infotech
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SwayamShah16&hide_border=true" alt="GitHub streak stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SwayamShah16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SwayamShah16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Swayam's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamShah16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=SwayamShah16&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
-### Quick Stats
-
-- 5+ major projects
-- 40+ tech skills
-- 30+ repositories
-- Passion for continuous learning and building practical solutions
-
 ---
 
-## 🌟 Areas I Enjoy
+## 💡 Areas I Enjoy
 
-- Full-Stack Web Applications
-- Enterprise Management Systems
-- Backend Development
-- Database Design
-- Data Structures & Algorithms
-- Data Analytics & Visualization
-- Machine Learning
-- AI-Powered Developer Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Applications-1572B6?style=flat-square" alt="Full-stack web applications" />
+  <img src="https://img.shields.io/badge/Enterprise%20Systems-6C3483?style=flat-square" alt="Enterprise systems" />
+  <img src="https://img.shields.io/badge/Backend%20Development-2E8B57?style=flat-square" alt="Backend development" />
+  <img src="https://img.shields.io/badge/Database%20Design-4479A1?style=flat-square" alt="Database design" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Data analytics" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" alt="Machine learning" />
+  <img src="https://img.shields.io/badge/AI--Powered%20Tools-412991?style=flat-square&logo=openai&logoColor=white" alt="AI-powered tools" />
+</p>
 
 ---
 
 ## 🤝 Open to Opportunities
 
-I am interested in internships, backend/full-stack roles, data and AI projects, collaborative work, hackathons, and open-source contributions.
-
-If a project interests you, feel free to explore my repositories, connect on GitHub or LinkedIn, or reach out by email.
+I am open to internships, backend and full-stack roles, data and AI projects, collaborative work, hackathons, and open-source contributions.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40SwayamShah16-181717?style=flat-square&logo=github)](https://github.com/SwayamShah16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swayam%20Shah-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/swayam-shah-ss160905/)
-[![Email](https://img.shields.io/badge/Email-shahswayam222%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shahswayam222@gmail.com)
+<a href="https://github.com/SwayamShah16"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
+<a href="https://www.linkedin.com/in/swayam-shah-ss160905/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a>
+<a href="mailto:shahswayam222@gmail.com"><img src="https://img.shields.io/badge/Gmail-Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
 
-⭐ Build. Learn. Improve. Repeat.
+<br /><br />
 
-Thanks for visiting my profile!
+⭐ **Build. Learn. Improve. Repeat.**
 
 </div>
