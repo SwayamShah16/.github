@@ -1,151 +1,217 @@
 <div align="center">
 
-# 👋 Hi, I'm Swayam Shah
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng615c/giphy.gif" width="25px"> Swayam Shah
 
-### Aspiring Software Developer · Full-Stack Developer · Data & AI Enthusiast
+### Full-Stack Developer • Data & AI Enthusiast • Problem Solver
 
-**Java · JavaScript · Python · Data Analytics · Machine Learning**
+**Java | JavaScript | Python | TypeScript | Machine Learning**
 
 <p>
-  <a href="https://swayam-shah16-github-io.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A84FF?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/swayam-shah-ss160905/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:shahswayam222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://swayam-shah16-github-io.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/swayam-shah-ss160905/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="mailto:shahswayam222@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/SwayamShah16" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=SwayamShah16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+---
 
 </div>
 
+## 👨‍💻 About Me
+
+I craft scalable, robust, and user-focused software solutions. My journey spans enterprise management systems, full-stack web applications, data analytics, machine learning, and AI-powered products.
+
+> 💡 Great software is built on clean architecture, strong fundamentals, and continuous learning.
+
+- 🔥 Full-Stack Developer with strong foundations in Java, JavaScript, Python, and modern web technologies
+- 🏗️ Backend-focused mindset with API design, database modeling, and system architecture
+- 📊 Data-driven thinker working with machine learning, analytics, and visualization
+- 🚀 Exploring cloud deployment using AWS, Vercel, and Render
+- 🔐 Interested in authentication, authorization, role-based access, and secure design
+- 🧠 Constantly learning system design, modern frameworks, and AI/LLM concepts
+
 ---
 
-## 🧑‍💻 About Me
-
-I am an aspiring software developer who enjoys building practical, reliable, and user-focused software. My work spans enterprise management systems, full-stack web applications, data analytics, machine learning, and AI-powered solutions.
-
-- 💻 Focused on clean architecture, reusable code, and real-world problem solving
-- ☕ Strong foundation in Java, JSP, Servlets, JDBC, MySQL, and MVC2 architecture
-- 🌐 Building responsive web applications with JavaScript, TypeScript, HTML5, CSS3, and Bootstrap5
-- 🐍 Working with Python, NumPy, Pandas, Jupyter Notebook, data science, and machine learning
-- 📊 Interested in Power BI, Tableau, data visualization, and business intelligence
-- ☁️ Exploring AWS, Vercel, Render, cloud technologies, and scalable backend systems
-- 🔐 Familiar with authentication, authorization, role-based access control, and session management
-
----
-
-## 🛠️ Technical Skills
+## 🛠️ Technical Arsenal
 
 ### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,typescript,html,css,bootstrap,c" alt="Languages and frameworks" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
 </p>
 
-`Java` `Spring Core` `Python` `JavaScript` `TypeScript` `HTML5` `CSS3` `Bootstrap5` `C` `XML` `JSON`
-
-### Backend, Databases & Web
+### Databases & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,aws,vercel,render,apache,tomcat,maven" alt="Backend and web technologies" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JSP%2FServlets-007396?style=flat&logo=java&logoColor=white" alt="JSP/Servlets" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white" alt="JDBC" />
+  <img src="https://img.shields.io/badge/MVC%20Architecture-000000?style=flat" alt="MVC Architecture" />
 </p>
 
-`JSP` `Servlets` `JDBC` `MVC2 Architecture` `REST APIs` `MySQL` `OracleDB` `Responsive Design` `Apache Maven` `Apache Tomcat`
-
-### Data, Analytics & AI
-
-`NumPy` `Pandas` `Jupyter Notebook` `Data Science` `Machine Learning` `Power BI` `Tableau` `Data Visualization` `Business Intelligence` `Agentic AI` `LLM` `LangChain`
-
-### Tools & Platforms
+### Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,figma,dbeaver,intellij" alt="Tools and platforms" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apache&logoColor=black" alt="Tomcat" />
 </p>
 
-`Git` `GitHub` `VS Code` `Eclipse` `IntelliJ IDEA` `Postman` `Figma` `DBeaver` `Excel` `XAMPP` `Oracle APEX` `MySQL Workbench`
+### Data & AI
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=flat&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/LLM-412991?style=flat&logo=openai&logoColor=white" alt="LLM" />
+</p>
+
+### Tools & IDEs
+
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white" alt="DBeaver" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Currently Exploring
 
-| Focus Area | What I'm Exploring |
+| Focus | Details |
 | --- | --- |
-| 🏗️ **System Design** | Scalable architecture, RESTful API patterns, caching, database scaling, and system trade-offs |
-| ⚛️ **Modern Full-Stack** | React concepts, API integration, clean state management, and deployment workflows |
-| 🤖 **AI & Data Products** | LLM fundamentals, prompt design, practical AI workflows, analytics, and automation |
+| 🏗️ System Design | Scalable architectures, API design patterns, database optimization, and distributed systems |
+| ⚛️ Modern Full-Stack | React ecosystems, advanced state management, and production-grade deployments |
+| 🤖 AI & Automation | LLM integrations, prompt engineering, RAG systems, and intelligent automation |
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🏥 Hospital Reception Management System
+**Full-Stack ERP Platform for Healthcare**
+- Comprehensive patient, doctor, and appointment management
+- Real-time dashboard with analytics and reporting
+- Multi-user role-based access control and security
 
-ERP-style hospital management platform for patients, doctors, staff, appointments, rooms, payments, emergencies, and dashboards.
+**Tech:** Java | JSP | Servlets | JDBC | MySQL | Angular | Bootstrap
 
-**Java · JSP · Servlets · JDBC · MySQL · Angular · Bootstrap**
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/Hospital-Reception-Management-System)
 
-<a href="https://github.com/SwayamShah16/Hospital-Reception-Management-System">View Repository →</a>
-
-</td>
-<td width="50%">
+---
 
 ### 🌍 Import-Export ERP System
+**Web-Based Seller Management Platform**
+- Contact, product, and profile management
+- Comprehensive sales dashboards and reporting
+- MVC2 architecture with clean separation of concerns
 
-Web-based seller ERP for managing contacts, products, profiles, reports, and business dashboards.
+**Tech:** Java | JSP | JDBC | MySQL | MVC2 | Bootstrap
 
-**Java · JSP · JDBC · MySQL · MVC2 · Bootstrap**
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/Import-Export-ERP-System)
 
-<a href="https://github.com/SwayamShah16/Import-Export-ERP-System">View Repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 🎓 University Management System
+**Desktop GUI Application for Academic Management**
+- Student, teacher, and department management
+- Marks tracking and leave management system
+- Intuitive Java Swing interface
 
-Desktop application for managing students, teachers, departments, marks, and leaves through an intuitive GUI.
+**Tech:** Core Java | Swing | MySQL
 
-**Core Java · Swing · MySQL**
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/University-Management-System)
 
-<a href="https://github.com/SwayamShah16/University-Management-System">View Repository →</a>
-
-</td>
-<td width="50%">
+---
 
 ### 🕵️ Fake Social Media Account Detection
+**ML-Powered Instagram Profile Analyzer**
+- Data preprocessing and exploratory analysis
+- Classification models for fake account detection
+- Jupyter notebooks with detailed analysis
 
-Machine-learning project analyzing Instagram data with preprocessing, exploratory analysis, and classification models.
+**Tech:** Python | Pandas | NumPy | Machine Learning | Jupyter
 
-**Python · Jupyter · Pandas · Machine Learning**
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/Fake-Social-Media-Account-Detection)
 
-<a href="https://github.com/SwayamShah16/Fake-Social-Media-Account-Detection">View Repository →</a>
+---
+
+### 📊 Power BI Dashboards
+**Interactive Data Visualization & Analytics**
+- KPI dashboards with real-time metrics
+- Professional data visualizations
+- Business intelligence insights
+
+**Tech:** Power BI | Data Visualization | Analytics
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/Power-BI-Dashboards-)
+
+---
+
+### 💼 Portfolio Website
+**Responsive Personal Portfolio**
+- Modern, clean design with smooth animations
+- Project showcase and skills highlight
+- Fully responsive and mobile-optimized
+
+**Tech:** HTML5 | CSS3 | JavaScript
+
+[![Live](https://img.shields.io/badge/Visit%20Website-0A84FF?style=flat&logo=vercel)](https://swayamshah16.github.io/)
+
+---
+
+## 🏆 Achievements & Recognition
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🥇 Academic Excellence
+- 1st Prize — Certificate of Excellence in Examination (TECO)
+- 2nd Prize — Certificate of Excellence in Examination (SECO)
+
+</td>
+<td align="center" width="50%">
+
+### 🎖️ Innovation & Recognition
+- 1st Prize — Certificate of Innovation (SIIH 2025, TECO)
+- Consolation Prize — Project Exhibition 2025 (SECO)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### 📊 Power BI Dashboards
-
-Interactive dashboards that communicate KPIs, trends, and data-driven insights through professional visualizations.
-
-**Power BI · Data Visualization · Analytics**
-
-<a href="https://github.com/SwayamShah16/Power-BI-Dashboards-">View Repository →</a>
+### 📜 Certifications & Training
+- Data Visualization (Anudip Foundation)
+- Internship Completion (SDAC Infotech)
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
-### 💼 Portfolio Website
-
-Responsive portfolio website presenting my skills, projects, achievements, and professional journey.
-
-**HTML5 · CSS3 · JavaScript**
-
-<a href="https://swayamshah16.github.io/">View Website →</a>
+### 💼 Professional Growth
+- Hands-on experience in full-stack development
+- Proven ability to deliver end-to-end solutions
+- Strong mentoring and collaborative skills
 
 </td>
 </tr>
@@ -153,59 +219,61 @@ Responsive portfolio website presenting my skills, projects, achievements, and p
 
 ---
 
-## 🏆 Achievements & Recognition
-
-- 🥇 1st Prize — Certificate of Excellence in Examination, TECO
-- 🥇 1st Prize — Certificate of Innovation, SIIH 2025, TECO
-- 🥈 2nd Prize — Certificate of Excellence in Examination, SECO
-- 🏅 Consolation Prize — Project Exhibition 2025, SECO
-- 📜 Certificate of Completion — Data Visualization, Anudip Foundation
-- 📜 Certificate of Completion — Internship
-- 💼 Internship Completion Letter — SDAC Infotech
-
----
-
-## 📈 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SwayamShah16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Swayam's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamShah16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SwayamShah16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamShah16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<br />
-
-<img src="https://streak-stats.demolab.com?user=SwayamShah16&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img width="100%" src="https://streak-stats.demolab.com?user=SwayamShah16&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 💡 Areas I Enjoy
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Applications-1572B6?style=flat-square" alt="Full-stack web applications" />
-  <img src="https://img.shields.io/badge/Enterprise%20Systems-6C3483?style=flat-square" alt="Enterprise systems" />
-  <img src="https://img.shields.io/badge/Backend%20Development-2E8B57?style=flat-square" alt="Backend development" />
-  <img src="https://img.shields.io/badge/Database%20Design-4479A1?style=flat-square" alt="Database design" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Data analytics" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" alt="Machine learning" />
-  <img src="https://img.shields.io/badge/AI--Powered%20Tools-412991?style=flat-square&logo=openai&logoColor=white" alt="AI-powered tools" />
-</p>
-
----
-
-## 🤝 Open to Opportunities
-
-I am open to internships, backend and full-stack roles, data and AI projects, collaborative work, hackathons, and open-source contributions.
+## 💡 What I Enjoy Building
 
 <div align="center">
 
-<a href="https://github.com/SwayamShah16"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
-<a href="https://www.linkedin.com/in/swayam-shah-ss160905/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a>
-<a href="mailto:shahswayam222@gmail.com"><img src="https://img.shields.io/badge/Gmail-Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
+<img src="https://img.shields.io/badge/-Full%20Stack%20Web%20Apps-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Web Apps" />
+<img src="https://img.shields.io/badge/-Enterprise%20Systems-4C72B0?style=for-the-badge&logo=database&logoColor=white" alt="Enterprise Systems" />
+<img src="https://img.shields.io/badge/-Backend%20APIs-2E7D32?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend APIs" />
+<img src="https://img.shields.io/badge/-Database%20Design-0066CC?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Design" />
 
-<br /><br />
+<img src="https://img.shields.io/badge/-Data%20Analytics-FFB300?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/-ML%20%26%20AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/-Cloud%20Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Architecture" />
+<img src="https://img.shields.io/badge/-AI--Powered%20Tools-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
 
-⭐ **Build. Learn. Improve. Repeat.**
+</div>
+
+---
+
+## 🎯 Open to Opportunities
+
+I'm actively seeking:
+- Backend & Full-Stack Roles
+- Data & ML Projects
+- Internships & Collaborations
+- Hackathons & Open Source
+
+<div align="center">
+
+<a href="https://github.com/SwayamShah16" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+<a href="https://www.linkedin.com/in/swayam-shah-ss160905/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+<a href="mailto:shahswayam222@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Build. Learn. Innovate. Repeat.
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60px" />
+
+*Let's build something amazing together!*
 
 </div>
