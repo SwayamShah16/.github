@@ -13,6 +13,8 @@
   <a href="https://github.com/SwayamShah16" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=SwayamShah16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 ---
 
 </div>
@@ -23,11 +25,12 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 
 > 💡 Great software is built on clean architecture, strong fundamentals, and continuous learning.
 
-- 🔥 Full-Stack Developer with strong foundations in Java, JavaScript, Python, and modern web technologies
+- 🔥 Full-Stack Developer with strong foundations in Java, JavaScript, Python, PHP, and modern web technologies
 - 🏗️ Backend-focused mindset with API design, database modeling, and system architecture
+- 🔐 **PHP-Based Authentication & Authorization Expert** | Role-Based Login (RBAC), Session Handling, Token Management, Secure Password Hashing, Access Control Lists (ACL), Multi-factor Authentication (MFA) Support
+- 🛡️ **Session Management Specialist** | Session Timeout, Session Validation, Secure Cookie Handling, Session Hijacking Prevention, Database-Backed Sessions
 - 📊 Data-driven thinker working with machine learning, analytics, and visualization
 - 🚀 Exploring cloud deployment using AWS, Vercel, and Render
-- 🔐 Interested in authentication, authorization, role-based access, and secure design
 - 🧠 Constantly learning system design, modern frameworks, and AI/LLM concepts
 
 ---
@@ -42,6 +45,7 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -57,6 +61,9 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
   <img src="https://img.shields.io/badge/JSP%2FServlets-007396?style=flat&logo=java&logoColor=white" alt="JSP/Servlets" />
   <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white" alt="JDBC" />
   <img src="https://img.shields.io/badge/MVC%20Architecture-000000?style=flat" alt="MVC2 Architecture" />
+  <img src="https://img.shields.io/badge/DAO%20Pattern-00897B?style=flat&logo=database&logoColor=white" alt="DAO" />
+  <img src="https://img.shields.io/badge/POJO-512BD4?style=flat&logo=java&logoColor=white" alt="POJO" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7185?style=flat&logo=apache&logoColor=white" alt="XAMPP" />
 </p>
 
 ### Cloud & DevOps
@@ -68,6 +75,7 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apache&logoColor=black" alt="Tomcat" />
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" alt="Maven" />
 </p>
 
 ### Data & AI
@@ -76,6 +84,10 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=flat&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-4285F4?style=flat&logo=google&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-412991?style=flat&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-FFB300?style=flat&logo=powerbi&logoColor=white" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Data%20Preparation-FF6F00?style=flat&logo=python&logoColor=white" alt="Data Preparation" />
   <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
@@ -91,6 +103,9 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white" alt="DBeaver" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-0EA5E9?style=flat&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Loveable-FF6B35?style=flat&logo=figma&logoColor=white" alt="Loveable" />
 </p>
 
 ---
@@ -99,7 +114,8 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 
 | Focus | Details |
 | --- | --- |
-| ⚛️ Modern Full-Stack | React ecosystems, advanced state management, and production-grade deployments |
+| 🏗️ System Design | Scalable architectures, API design patterns, database optimization, and distributed systems |
+| ⚛️ Modern Full-Stack | React ecosystems, Spring Boot frameworks, advanced state management, and production-grade deployments |
 | 🤖 AI & Automation | LLM integrations, prompt engineering, RAG systems, and intelligent automation |
 
 ---
@@ -223,7 +239,7 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SwayamShah16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamShah16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamShah16&theme=tokyonight&hide_border=true&langs_count=12&layout=compact" alt="Top Languages" />
 
 <img width="100%" src="https://streak-stats.demolab.com?user=SwayamShah16&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak" />
 
