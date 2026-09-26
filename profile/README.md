@@ -2,9 +2,9 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrng615c/giphy.gif" width="25px"> Swayam Shah
 
-### Full-Stack Developer • Data & AI Enthusiast • Problem Solver
+### Full-Stack Developer • Data & AI/ML Enthusiast • Problem Solver
 
-**Java | JavaScript | Python | TypeScript | Machine Learning**
+**Java | JavaScript | Python | TypeScript | PHP**
 
 <p>
   <a href="https://swayam-shah16-github-io.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;
@@ -52,11 +52,11 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="OracleDB" />
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/JSP%2FServlets-007396?style=flat&logo=java&logoColor=white" alt="JSP/Servlets" />
   <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white" alt="JDBC" />
-  <img src="https://img.shields.io/badge/MVC%20Architecture-000000?style=flat" alt="MVC Architecture" />
+  <img src="https://img.shields.io/badge/MVC%20Architecture-000000?style=flat" alt="MVC2 Architecture" />
 </p>
 
 ### Cloud & DevOps
@@ -99,7 +99,6 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 
 | Focus | Details |
 | --- | --- |
-| 🏗️ System Design | Scalable architectures, API design patterns, database optimization, and distributed systems |
 | ⚛️ Modern Full-Stack | React ecosystems, advanced state management, and production-grade deployments |
 | 🤖 AI & Automation | LLM integrations, prompt engineering, RAG systems, and intelligent automation |
 
