@@ -239,7 +239,7 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SwayamShah16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamShah16&theme=tokyonight&hide_border=true&langs_count=12&layout=compact&cache_buster=1" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SwayamShah16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="GitHub Streak" />
 
 <img width="100%" src="https://streak-stats.demolab.com?user=SwayamShah16&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak" />
 
