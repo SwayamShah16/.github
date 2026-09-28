@@ -267,7 +267,7 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 
 ## 🎯 Open to Opportunities
 
-I'm actively seeking:
+I'm actively participate in:
 - Backend & Full-Stack Roles
 - Data & ML Projects
 - Internships & Collaborations
@@ -285,7 +285,7 @@ I'm actively seeking:
 
 <div align="center">
 
-### ⭐ Build. Learn. Innovate. Repeat.
+### ⭐ Build. Learn. Innovate. Repeat. Succeed.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60px" />
 
