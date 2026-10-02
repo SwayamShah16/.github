@@ -1,3 +1,9 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="400" width="1000"/>
+<br>
+<p >
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Backend%20Developer;Aspiring%20Software%20Developer;&font=Fira%20Code&width=540&height=45&color=4B70C5&pause=1000&size=30" />
+</p>
+
 <div align="center">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrng615c/giphy.gif" width="25px"> Swayam Shah
