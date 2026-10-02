@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng615c/giphy.gif" width="25px"> Swayam Shah
+# Swayam Shah
 
 ### Full-Stack Developer • Data & AI/ML Enthusiast • Problem Solver
 
