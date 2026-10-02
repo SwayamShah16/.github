@@ -8,10 +8,6 @@
 
 # Swayam Shah
 
-### Full-Stack Developer • Data & AI/ML Enthusiast • Problem Solver
-
-**Java | JavaScript | Python | TypeScript | PHP**
-
 <p>
   <a href="https://swayam-shah16-github-io.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;
   <a href="https://www.linkedin.com/in/swayam-shah-ss160905/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
