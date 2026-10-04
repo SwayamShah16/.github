@@ -118,53 +118,6 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 | 🤖 AI & Automation | LLM integrations, prompt engineering, RAG systems, and intelligent automation |
 
 
-## 🚀 Featured Projects
-
-### 🏥 Hospital Reception Management System
-**Full-Stack ERP Platform for Healthcare**
-- Comprehensive patient, doctor, and appointment management
-- Real-time dashboard with analytics and reporting
-- Multi-user role-based access control and security
-
-**Tech:** Java | JSP | Servlets | JDBC | MySQL | Angular | Bootstrap
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/Hospital-Reception-Management-System)
-
-
-### 🌍 Import-Export ERP System
-**Web-Based Seller Management Platform**
-- Contact, product, and profile management
-- Comprehensive sales dashboards and reporting
-- MVC2 architecture with clean separation of concerns
-
-**Tech:** Java | JSP | JDBC | MySQL | MVC2 | Bootstrap
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/Import-Export-ERP-System)
-
-
-### 🎓 University Management System
-**Desktop GUI Application for Academic Management**
-- Student, teacher, and department management
-- Marks tracking and leave management system
-- Intuitive Java Swing interface
-
-**Tech:** Core Java | Swing | MySQL
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/University-Management-System)
-
-
-### 🕵️ Fake Social Media Account Detection
-**ML-Powered Instagram Profile Analyzer**
-- Data preprocessing and exploratory analysis
-- Classification models for fake account detection
-- Jupyter notebooks with detailed analysis
-
-**Tech:** Python | Pandas | NumPy | Machine Learning | Jupyter
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/Fake-Social-Media-Account-Detection)
-
-
-
 ## 🏆 Achievements & Recognition
 
 <table>
