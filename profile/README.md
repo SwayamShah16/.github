@@ -109,15 +109,6 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 </p>
 
 
-## 🎯 Currently Exploring
-
-| Focus | Details |
-| --- | --- |
-| 🏗️ System Design | Scalable architectures, API design patterns, database optimization, and distributed systems |
-| ⚛️ Modern Full-Stack | React ecosystems, Spring framework, advanced state management, and production-grade deployments |
-| 🤖 AI & Automation | LLM integrations, prompt engineering, RAG systems, and intelligent automation |
-
-
 ## 🏆 Achievements & Recognition
 
 <table>
@@ -182,14 +173,6 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 
 </div>
 
-
-## 🎯 Open to Opportunities
-
-I actively participate in:
-- Backend & Full-Stack Roles
-- Data & ML Projects
-- Internships & Collaborations
-- Hackathons & Open Source
 
 <div align="center">
 
