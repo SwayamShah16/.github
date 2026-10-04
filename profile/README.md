@@ -17,9 +17,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=SwayamShah16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
----
-
 </div>
+
 
 ## 👨‍💻 About Me
 
@@ -35,7 +34,6 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 - 🚀 Exploring cloud deployment using AWS, Vercel, and Render
 - 🧠 Constantly learning system design, modern frameworks, and AI/LLM concepts
 
----
 
 ## 🛠️ Technical Arsenal
 
@@ -110,7 +108,6 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
   <img src="https://img.shields.io/badge/Loveable-FF6B35?style=flat&logo=figma&logoColor=white" alt="Loveable" />
 </p>
 
----
 
 ## 🎯 Currently Exploring
 
@@ -120,7 +117,6 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 | ⚛️ Modern Full-Stack | React ecosystems, Spring framework, advanced state management, and production-grade deployments |
 | 🤖 AI & Automation | LLM integrations, prompt engineering, RAG systems, and intelligent automation |
 
----
 
 ## 🚀 Featured Projects
 
@@ -134,7 +130,6 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 
 [![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/Hospital-Reception-Management-System)
 
----
 
 ### 🌍 Import-Export ERP System
 **Web-Based Seller Management Platform**
@@ -146,7 +141,6 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 
 [![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/Import-Export-ERP-System)
 
----
 
 ### 🎓 University Management System
 **Desktop GUI Application for Academic Management**
@@ -158,7 +152,6 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 
 [![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/University-Management-System)
 
----
 
 ### 🕵️ Fake Social Media Account Detection
 **ML-Powered Instagram Profile Analyzer**
@@ -170,31 +163,7 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 
 [![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/Fake-Social-Media-Account-Detection)
 
----
 
-### 📊 Power BI Dashboards
-**Interactive Data Visualization & Analytics**
-- KPI dashboards with real-time metrics
-- Professional data visualizations
-- Business intelligence insights
-
-**Tech:** Power BI | Data Visualization | Analytics
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github)](https://github.com/SwayamShah16/Power-BI-Dashboards-)
-
----
-
-### 💼 Portfolio Website
-**Responsive Personal Portfolio**
-- Modern, clean design with smooth animations
-- Project showcase and skills highlight
-- Fully responsive and mobile-optimized
-
-**Tech:** HTML5 | CSS3 | JavaScript
-
-[![Live](https://img.shields.io/badge/Visit%20Website-0A84FF?style=flat&logo=vercel)](https://swayamshah16.github.io/)
-
----
 
 ## 🏆 Achievements & Recognition
 
@@ -234,7 +203,6 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 </tr>
 </table>
 
----
 
 ## 📊 GitHub Analytics
 
@@ -244,7 +212,6 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 <img width="50%" src="https://streak-stats.demolab.com?user=SwayamShah16&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak" />
 </div>
 
----
 
 ## 💡 What I Enjoy Building
 
@@ -262,7 +229,6 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 
 </div>
 
----
 
 ## 🎯 Open to Opportunities
 
@@ -280,7 +246,6 @@ I actively participate in:
 
 </div>
 
----
 
 <div align="center">
 
