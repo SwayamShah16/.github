@@ -105,7 +105,7 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Claude-0EA5E9?style=flat&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Loveable-FF6B35?style=flat&logo=figma&logoColor=white" alt="Loveable" />
+  <img src="https://img.shields.io/badge/Lovable-FF6B35?style=flat&logo=figma&logoColor=white" alt="Lovable" />
 </p>
 
 
@@ -134,6 +134,7 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 ### 📜 Certifications & Training
 - Data Visualization (Anudip Foundation)
 - Internship Completion (SDAC Infotech)
+- Agentic AI Certified Foundations Associate(Oracle)
 
 </td>
 <td align="center" width="50%">
