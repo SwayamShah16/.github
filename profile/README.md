@@ -180,9 +180,9 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 
 I actively participate in:
 - Backend & Full-Stack Roles
-- Data & ML Projects
+- Data & AI/ML-based Projects
 - Internships & Collaborations
-- Hackathons & Open Source
+- Hackathons & Open Source Contributions
 
 <div align="center">
 
