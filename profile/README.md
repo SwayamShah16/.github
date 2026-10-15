@@ -9,7 +9,7 @@
 # Swayam Shah
 
 <p>
-  <a href="https://swayam-shah16-github-io.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;
+  <a href="https://swayam-shah16.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;
   <a href="https://www.linkedin.com/in/swayam-shah-ss160905/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="mailto:shahswayam222@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
   <a href="https://github.com/SwayamShah16" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
