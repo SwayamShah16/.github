@@ -79,21 +79,20 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" alt="Maven" />
 </p>
 
-### Data & AI
+### AI & ML
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=flat&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-4285F4?style=flat&logo=google&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-4285F4?style=flat&logo=google&logoColor=white" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/Agentic%20AI-412991?style=flat&logo=openai&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-FFB300?style=flat&logo=powerbi&logoColor=white" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Data%20Preparation-FF6F00?style=flat&logo=python&logoColor=white" alt="Data Preparation" />
-  <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-1F2937?style=flat&logo=githubactions&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C5C?style=flat&logo=python&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Vector%20Search-7B61FF?style=flat&logo=python&logoColor=white" alt="Vector Search" />
   <img src="https://img.shields.io/badge/LLM-412991?style=flat&logo=openai&logoColor=white" alt="LLM" />
 </p>
+
+
 
 ### Tools & IDEs
 
