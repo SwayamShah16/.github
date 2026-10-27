@@ -92,7 +92,17 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
   <img src="https://img.shields.io/badge/LLM-412991?style=flat&logo=openai&logoColor=white" alt="LLM" />
 </p>
 
-
+### Data & Analytics
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-FFB300?style=flat&logo=powerbi&logoColor=white" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Data%20Preparation-FF6F00?style=flat&logo=python&logoColor=white" alt="Data Preparation" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
+</p>
 
 ### Tools & IDEs
 
@@ -106,6 +116,8 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Claude-0EA5E9?style=flat&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Lovable-FF6B35?style=flat&logo=figma&logoColor=white" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+  
 </p>
 
 
