@@ -194,9 +194,7 @@ I actively participate in:
 <div align="center">
 
 <a href="https://github.com/SwayamShah16" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
-
 <a href="https://www.linkedin.com/in/swayam-shah-ss160905/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
-
 <a href="mailto:shahswayam222@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
