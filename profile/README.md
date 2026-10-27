@@ -158,7 +158,7 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SwayamShah16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12" width="50%" alt="GitHub Streak" />
   </div>
   <div>
-      <img width="50%" src="https://streak-stats.demolab.com?user=SwayamShah16&theme=tokyonight&hide_border=true&background=000000&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" />
+      <img width="50%" src="https://streak-stats.demolab.com?username=SwayamShah16&theme=tokyonight&hide_border=true&background=000000&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" />
   </div>
   <div>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwayamShah16&theme=tokyonight&include_all_commits=true&count_private=true" width="100%"/>
@@ -194,7 +194,9 @@ I actively participate in:
 <div align="center">
 
 <a href="https://github.com/SwayamShah16" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+
 <a href="https://www.linkedin.com/in/swayam-shah-ss160905/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+
 <a href="mailto:shahswayam222@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
