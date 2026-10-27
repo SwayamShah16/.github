@@ -56,66 +56,66 @@ I craft scalable, robust, and user-focused software solutions. My journey spans 
 ### Databases & Backend
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="OracleDB" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/JSP%2FServlets-007396?style=flat&logo=java&logoColor=white" alt="JSP/Servlets" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white" alt="JDBC" />
-  <img src="https://img.shields.io/badge/MVC%20Architecture-000000?style=flat" alt="MVC2 Architecture" />
-  <img src="https://img.shields.io/badge/DAO%20Pattern-00897B?style=flat&logo=database&logoColor=white" alt="DAO" />
-  <img src="https://img.shields.io/badge/POJO-512BD4?style=flat&logo=java&logoColor=white" alt="POJO" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7185?style=flat&logo=apache&logoColor=white" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OracleDB" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JSP%2FServlets-007396?style=for-the-badge&logo=java&logoColor=white" alt="JSP/Servlets" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />
+  <img src="https://img.shields.io/badge/MVC%20Architecture-000000?style=for-the-badge" alt="MVC2 Architecture" />
+  <img src="https://img.shields.io/badge/DAO%20Pattern-00897B?style=for-the-badge&logo=database&logoColor=white" alt="DAO" />
+  <img src="https://img.shields.io/badge/POJO-512BD4?style=for-the-badge&logo=java&logoColor=white" alt="POJO" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7185?style=for-the-badge&logo=apache&logoColor=white" alt="XAMPP" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apache&logoColor=black" alt="Tomcat" />
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache&logoColor=black" alt="Tomcat" />
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
 </p>
 
 ### AI & ML
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=flat&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-4285F4?style=flat&logo=google&logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-412991?style=flat&logo=openai&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-1F2937?style=flat&logo=githubactions&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C5C?style=flat&logo=python&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Vector%20Search-7B61FF?style=flat&logo=python&logoColor=white" alt="Vector Search" />
-  <img src="https://img.shields.io/badge/LLM-412991?style=flat&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-1F2937?style=for-the-badge&logo=githubactions&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C5C?style=for-the-badge&logo=python&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Vector%20Search-7B61FF?style=for-the-badge&logo=python&logoColor=white" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
 </p>
 
 ### Data & Analytics
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-FFB300?style=flat&logo=powerbi&logoColor=white" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Data%20Preparation-FF6F00?style=flat&logo=python&logoColor=white" alt="Data Preparation" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-FFB300?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Data%20Preparation-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Data Preparation" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </p>
 
 ### Tools & IDEs
 
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white" alt="DBeaver" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Lovable-FF6B35?style=flat&logo=figma&logoColor=white" alt="Lovable" />
-  <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Lovable-FF6B35?style=for-the-badge&logo=figma&logoColor=white" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
 
 
