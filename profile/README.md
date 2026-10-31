@@ -19,7 +19,6 @@
 
 </div>
 
-
 ## 👨‍💻 About Me
 
 I craft scalable, robust, and user-focused software solutions. My journey spans enterprise management systems, full-stack web applications, data analytics, machine learning, and AI-powered products.
@@ -207,7 +206,6 @@ I actively participate in:
 <a href="mailto:shahswayam222@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
-
 
 <div align="center">
 
